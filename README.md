@@ -1,18 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abdalrhman Younes</h1>
-<h3 align="center">A passionate developer & tech enthusiast from Egypt</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Passionate+Developer;Loves+Python,+C,+and+Logic;Always+learning+new+things" alt="Typing SVG" />
 </p>
-
----
-
-### 🧠 About Me:
-
-- 🔭 I’m currently working on **personal projects and building my portfolio**
-- 🌱 I’m currently learning **advanced algorithms, data structures, and system design**
-- 💬 Ask me about **Python, C, Git, or anything geeky**
-- ⚡ Fun fact: I love **chess, sci-fi, and manga**
 
 ---
 
@@ -62,18 +50,7 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RhmanFlow&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RhmanFlow&theme=radical" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhmanFlow&layout=compact&theme=radical" alt="langs" />
 </p>
-
----
-
-### 📫 How to reach me:
-- Email: [yo.abdalrhman@gmail.com](mailto:yo.abdalrhman@gmail.com)
-- Telegram: [@YourTelegram](https://t.me/YourTelegram)
-- LinkedIn: [YourLinkedIn](https://linkedin.com/in/YourLinkedIn)
-
----
-
-> “Stay curious, stay sharp, and code like a poet.” 🧠⚔️
